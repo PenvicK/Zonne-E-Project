@@ -20,7 +20,7 @@ function Home() {
         }}
       >
         <div className="card-1">
-          <h2 className="title-card-home">Teste 2</h2>
+          <h2 className="title-card-home">Teste 3</h2>
           <p className="p-card-home">
             Let's get you into a radiation suit, we must prepare to reload. Ah,
             where're my pants? You know, Doc, you left your equipment on all
